@@ -1,0 +1,15 @@
+C:\Учеба\C#\Seminar_C-\Sem1_Task3\bin\Debug\net7.0\Sem1_Task3.exe
+C:\Учеба\C#\Seminar_C-\Sem1_Task3\bin\Debug\net7.0\Sem1_Task3.deps.json
+C:\Учеба\C#\Seminar_C-\Sem1_Task3\bin\Debug\net7.0\Sem1_Task3.runtimeconfig.json
+C:\Учеба\C#\Seminar_C-\Sem1_Task3\bin\Debug\net7.0\Sem1_Task3.dll
+C:\Учеба\C#\Seminar_C-\Sem1_Task3\bin\Debug\net7.0\Sem1_Task3.pdb
+C:\Учеба\C#\Seminar_C-\Sem1_Task3\obj\Debug\net7.0\Sem1_Task3.csproj.AssemblyReference.cache
+C:\Учеба\C#\Seminar_C-\Sem1_Task3\obj\Debug\net7.0\Sem1_Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учеба\C#\Seminar_C-\Sem1_Task3\obj\Debug\net7.0\Sem1_Task3.AssemblyInfoInputs.cache
+C:\Учеба\C#\Seminar_C-\Sem1_Task3\obj\Debug\net7.0\Sem1_Task3.AssemblyInfo.cs
+C:\Учеба\C#\Seminar_C-\Sem1_Task3\obj\Debug\net7.0\Sem1_Task3.csproj.CoreCompileInputs.cache
+C:\Учеба\C#\Seminar_C-\Sem1_Task3\obj\Debug\net7.0\Sem1_Task3.dll
+C:\Учеба\C#\Seminar_C-\Sem1_Task3\obj\Debug\net7.0\refint\Sem1_Task3.dll
+C:\Учеба\C#\Seminar_C-\Sem1_Task3\obj\Debug\net7.0\Sem1_Task3.pdb
+C:\Учеба\C#\Seminar_C-\Sem1_Task3\obj\Debug\net7.0\Sem1_Task3.genruntimeconfig.cache
+C:\Учеба\C#\Seminar_C-\Sem1_Task3\obj\Debug\net7.0\ref\Sem1_Task3.dll

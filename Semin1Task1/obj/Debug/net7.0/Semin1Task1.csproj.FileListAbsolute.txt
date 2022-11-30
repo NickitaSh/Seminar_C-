@@ -1,0 +1,15 @@
+C:\Учеба\C#\Seminar_C-\Semin1Task1\bin\Debug\net7.0\Semin1Task1.exe
+C:\Учеба\C#\Seminar_C-\Semin1Task1\bin\Debug\net7.0\Semin1Task1.deps.json
+C:\Учеба\C#\Seminar_C-\Semin1Task1\bin\Debug\net7.0\Semin1Task1.runtimeconfig.json
+C:\Учеба\C#\Seminar_C-\Semin1Task1\bin\Debug\net7.0\Semin1Task1.dll
+C:\Учеба\C#\Seminar_C-\Semin1Task1\bin\Debug\net7.0\Semin1Task1.pdb
+C:\Учеба\C#\Seminar_C-\Semin1Task1\obj\Debug\net7.0\Semin1Task1.csproj.AssemblyReference.cache
+C:\Учеба\C#\Seminar_C-\Semin1Task1\obj\Debug\net7.0\Semin1Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учеба\C#\Seminar_C-\Semin1Task1\obj\Debug\net7.0\Semin1Task1.AssemblyInfoInputs.cache
+C:\Учеба\C#\Seminar_C-\Semin1Task1\obj\Debug\net7.0\Semin1Task1.AssemblyInfo.cs
+C:\Учеба\C#\Seminar_C-\Semin1Task1\obj\Debug\net7.0\Semin1Task1.csproj.CoreCompileInputs.cache
+C:\Учеба\C#\Seminar_C-\Semin1Task1\obj\Debug\net7.0\Semin1Task1.dll
+C:\Учеба\C#\Seminar_C-\Semin1Task1\obj\Debug\net7.0\refint\Semin1Task1.dll
+C:\Учеба\C#\Seminar_C-\Semin1Task1\obj\Debug\net7.0\Semin1Task1.pdb
+C:\Учеба\C#\Seminar_C-\Semin1Task1\obj\Debug\net7.0\Semin1Task1.genruntimeconfig.cache
+C:\Учеба\C#\Seminar_C-\Semin1Task1\obj\Debug\net7.0\ref\Semin1Task1.dll
