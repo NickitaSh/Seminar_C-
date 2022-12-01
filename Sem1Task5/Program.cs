@@ -23,7 +23,7 @@ if (inputLineNum != null)
         startNum++;
     }
     outLine = outLine + startNum;
-    
+
     //Выводим данные в консоль
     Console.WriteLine(outLine);
 }
