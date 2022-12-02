@@ -10,7 +10,7 @@ if (num1Line != null && num2Line != null)
     //Вводим новую переменную. Присваеваем ей значение 0.
     int max = 0;
 
-    //Парсим введенное число
+    //Парсим введенные числа
     int num1 = int.Parse(num1Line);
     int num2 = int.Parse(num2Line);
 
@@ -19,12 +19,16 @@ if (num1Line != null && num2Line != null)
     {
         //Если верно, то переменной max присваеваем значение первого числа
         max = num1;
+        
+        //Выводим данные на консоль
         Console.WriteLine("max="+max);
     }
     else
     {
         //Если неверно, то переменной max присваеваем значение второго числа
         max = num2;
+        
+        //Выводим данные на консоль
         Console.WriteLine("max="+max);
     }
 }
