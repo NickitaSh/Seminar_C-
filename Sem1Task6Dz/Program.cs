@@ -13,12 +13,12 @@ if (inputLineNum != null)
     int remainder = inputNum % 2;
     if (remainder == 0)
     {
-       //Если остаток равен нулю, вывод на консоль "Четное число"
-       Console.WriteLine(inputNum+"-Четное число"); 
+        //Если остаток равен нулю, вывод на консоль "Четное число"
+        Console.WriteLine(inputNum + "-Четное число");
     }
     else
     {
         //Если остаток не равен нулю, вывод на консоль "Нечетное число"
-        Console.WriteLine(inputNum+"-Нечетное число");
+        Console.WriteLine(inputNum + "-Нечетное число");
     }
 }
