@@ -7,25 +7,22 @@ string? inputLine = Console.ReadLine();
 if (inputLine != null)
 {
     //Парсим введенное число
-    int inputNum = int.Parse(inputLine);
-
-    //Вводим переменную равную числу с которого начинаем.
-    int outputNum = 1;
-
-    //Выполняем цикл пока выполняется условие inputNum > outputNum 
-    while (inputNum > outputNum)
+    int inputNumber = int.Parse(inputLine);
+    
+    //Присваеваем новой переменной значение 2
+    int startNumber = 2;
+    
+    //Вводим пустую строку
+    string outLine = string.Empty;
+    
+    //Запускаем цикл до выполнения условия
+    while (startNumber < inputNumber - 2)
     {
-
-        //Проверяем условие, равен ли остаток 0 при делении на 2
-        if (outputNum % 2 == 0)
-        {
-            //Если остаток равен нулю, вывод на консоль 
-            Console.Write(outputNum + ", ");
-
-            //Увеличиваем переменную на 1
-            outputNum++;
-        }
-        //Увеличиваем переменную на 1
-        outputNum++;
+        outLine = outLine + startNumber + ", ";
+        startNumber = startNumber + 2;
     }
+    outLine = outLine + startNumber;
+    
+    // Выводим данные в консоль
+    Console.WriteLine(outLine);
 }
